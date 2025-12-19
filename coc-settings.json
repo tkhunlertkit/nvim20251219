@@ -1,0 +1,7 @@
+{
+    "http.proxy": "http://tanawatk:%404HanArinism%24%29%23@10.104.0.11:8080",
+    "python.formatting.provider": "black",
+    "coc.preferences.formatOnSaveFiletypes": ["python"],
+    "python.formatting.blackArgs": ["--line-length", "120"],
+    "pyright.organizeimports.provider": "isort"
+}
